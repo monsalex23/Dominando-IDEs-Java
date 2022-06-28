@@ -8,8 +8,10 @@ public class Primer {
 			
 			Cat gato = new Cat(); 
 			
-			/*int a = 5;
+			System.out.println(cat);
+			
+			int a = 5;
 			int b = 10;
-			System.out.println("hello people " + (a + b));*/
+			System.out.println("hello people " + (a + b));
 		}
 }
